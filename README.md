@@ -15,7 +15,10 @@ First Hand Information for First Responders who are always on the Frontline with
 5. [Documents](#documents)
 6. [Technology](#technology)
 7. [Getting started](#getting-started)
-8. [Resources](#resources)
+8. [Running the Project Frontline Website](#Running the Project Frontline Website)
+9. [Guide](#Guide)
+10. [Resources](#resources)
+
 
 
 ## Overview
@@ -123,11 +126,11 @@ Log in to IBM Cloud and provision a Watson Assistant instance.
  
 ## Running the Project Frontline Website
 
-1.(#Run the file) 
+1. Run the file 
 
 ## Guide
 
-1. (#Launch the Website by following the above Step)
+1. Launch the Website by following the above Step
 
 
 
