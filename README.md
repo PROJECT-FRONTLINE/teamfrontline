@@ -89,12 +89,6 @@ Trusted sources for COVID-19 Information:
 
 ### Steps
 
-1. [Set up an instance of Watson Assistant](#1-set-up-an-instance-of-watson-assistant).
-1. [Integrate your Watson Assistant with Slack](#2-Integrate your Watson Assistant with Slack).
-1. [How to Create an Interactive Dashboard](#3-How to Create an Interactive Dashboard).
-1. [How to Embed the Interactive Dashboard in a Website](#4-How to Embed the Interactive Dashboard in a Website).
-1. [Run the mobile application](#5-run-the-mobile-application).
-
 ### 1. Set up an instance of Watson Assistant
 
 Log in to IBM Cloud and provision a Watson Assistant instance.
