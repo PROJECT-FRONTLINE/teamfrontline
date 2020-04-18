@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="about-section">
+  <h1>About Us Page</h1>
+  <p>This is a project is a part of IBM Call for Code COVID-19 Challenge.The main aim of this project is to serve our First responders who are always on the Frontline.</p>
+<p>We believe that "First Responders need First Response"</p>
+<br>
+<p>For this purpose we have created a Frontline Chatbot to answer questions of the First Responders that they encounter at the Frontline.For this purpose we have used Watson Assistant Chatbot Technology.</p>
+<br>
+<p>We have also designed a form which serves as a data collection method from the First Responders regsrding their needs and the problems they faces on the Frontline. This data that we have collected is then fed into Watson Studio in order to produce Insights in terms of Data Visualization.</p>
+
+
+</div>
+
+<h2 style="text-align:center">Our Team</h2>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="" alt="" style="width:100%">
+      <div class="container">
+        <h2>Savio Lobo</h2>
+        <p class="title">Developer</p>
+        <p>Project Frontline</p>
+        <p>saviolobo14@gmail.com</p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="">
+      <img src="" alt="" style="width:100%">
+      <div class="container">
+        <h2></h2>
+        
+        <p></p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="" alt="" style="width:100%">
+      <div class="container">
+        <h2>Lavin Peeyus</h2>
+        <p class="title">Developer</p>
+        <p>Project Frontline</p>
+        <p>vlavinpeeyus@gmail.com</p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
