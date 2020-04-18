@@ -15,9 +15,8 @@ First Hand Information for First Responders who are always on the Frontline with
 5. [Documents](#documents)
 6. [Technology](#technology)
 7. [Getting started](#getting-started)
-8. [Running the Project Frontline Website](#Running the Project Frontline Website)
-9. [Guide](#Guide)
-10. [Resources](#resources)
+8. [Guide](#Guide)
+9. [Resources](#resources)
 
 
 
