@@ -120,9 +120,9 @@ Log in to IBM Cloud and provision a Watson Assistant instance.
 ## Guide
 
 1. The First Responder will access the Website https://drive.google.com/file/d/1MV0TeAzEi53cYPJi1mF7ss2wak_RYX_m/view?usp=sharing
-2.Reaponder  can access the Chatbot secially designed for First Responders and ask specific Questions like "How to clean a transport Vehicle?","What is the recommened PPE?" and get answers.  https://drive.google.com/file/d/1OD-H4mrQGjDPIRh02zWrSihTGhxP5Z81/view?usp=sharing  https://drive.google.com/file/d/1uhyRo9XiVK0FiFJ9bjCk3-qk_lb6XgxF/view?usp=sharing
-3.The First Responders can aslo fill the form to specify their needs like which ppe they need? or the problems they face? https://drive.google.com/file/d/16hpsZRAOGKb20Zb_8gkf9GduhYSKdrP9/view?usp=sharing 
-4.The Government Authorities can visit this website and view the Interactive Dashboard powered by IBM Watson Studio having Data Visualisation based on the Data filled up in the form by the First Responders https://drive.google.com/file/d/10iNF0_wQiU8kXGi18rIRuj0TmrR1Pjgv/view?usp=sharing
+2. Reaponder  can access the Chatbot secially designed for First Responders and ask specific Questions like "How to clean a transport Vehicle?","What is the recommened PPE?" and get answers.  https://drive.google.com/file/d/1OD-H4mrQGjDPIRh02zWrSihTGhxP5Z81/view?usp=sharing  https://drive.google.com/file/d/1uhyRo9XiVK0FiFJ9bjCk3-qk_lb6XgxF/view?usp=sharing
+3. The First Responders can aslo fill the form to specify their needs like which ppe they need? or the problems they face? https://drive.google.com/file/d/16hpsZRAOGKb20Zb_8gkf9GduhYSKdrP9/view?usp=sharing 
+4. The Government Authorities can visit this website and view the Interactive Dashboard powered by IBM Watson Studio having Data Visualisation based on the Data filled up in the form by the First Responders https://drive.google.com/file/d/10iNF0_wQiU8kXGi18rIRuj0TmrR1Pjgv/view?usp=sharing
 
 
 
