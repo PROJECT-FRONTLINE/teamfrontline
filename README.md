@@ -67,13 +67,12 @@ Trusted sources for COVID-19 Information:
 
 ### IBM Cloud Services
 
-- [Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
 - [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/)
 - [How-to guides for chatbots](https://www.ibm.com/watson/how-to-build-a-chatbot)
 - [Learning path: Getting started with Watson Assistant](https://developer.ibm.com/series/learning-path-watson-assistant/)
-- [Enhance customer helpdesks with Smart Document Understanding using webhooks in Watson Assistant](https://developer.ibm.com/patterns/enhance-customer-help-desk-with-smart-document-understanding/)
 - [Chat Bot Slack Integration](https://developer.ibm.com/technologies/artificial-intelligence/videos/integrating-watson-assistant-with-slack-using-built-in-integrations/#)
 - [Chat Bot Slack deployment](https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-slack)
+-[IBM Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio)
 
 
 ## Getting started
