@@ -45,7 +45,7 @@ B.Government Authorities(The Government Authorities can visitt this website and 
 
 This Architecture comprises of Chatbot powered by IBM Watson Assistant to be used by First Responders and an Interactive Dashboard powered by Watson Studio to be used by Government Authorities.  
 
-For First Responder ( https://drive.google.com/open?id=1KmNiRae_FV8phnclrONU_bNsg_JTIxQq )
+For First Responder ( https://drive.google.com/file/d/1Ye78HNZ98B27I90jKBD_X9I7vo2bbUEA/view?usp=sharing )
 1. The First Responder launches the Website.
 2. He/She then launches the chatbot integrated with slack called as Frontline Chatbot specially designed for First Responders powered by IBM Watson.
 3. He/She asks the Questions that he faces on the Frontline like "What precaustions are needed if I work in a Nursing facility?", "I am Pregnant, What care must I take while attending COVID-19 patients?".
@@ -53,7 +53,7 @@ For First Responder ( https://drive.google.com/open?id=1KmNiRae_FV8phnclrONU_bNs
 5. The First Responder can also fil a form in order to specify the needs and problems that they face on the frontlines like "hygiene", "whether their basic needs are satisfied?".
 6. The Data collected by the form is fed into watson studio in order to be analysed by Government Authorities.
 
-For Government Authorities: ( https://drive.google.com/open?id=1tr1H6X2ZmOIfynU62aimgbmRrhDyZvIB )
+For Government Authorities: ( https://drive.google.com/file/d/18YvhJV1nPZku0XOqz7P98Snu2c9SFLn4/view?usp=sharing )
 1. The Government Authority launches the website.
 2. He/She then lauches the Interactive Dashboard called as Frontline Insights powered by IBM Watson Studio to show the data filled in the for by the First Responders in terms of Data Visualisation.
 3. The data can also be analysed in Watson Studio and decision can be made by the authorities and the needs of the first responders can be addressed.
