@@ -113,9 +113,6 @@ Log in to IBM Cloud and provision a Watson Assistant instance.
 
 1.Once your dashborad is ready Follow this tutorial to embed your Dashboard into a Website https://www.ibm.com/support/pages/how-do-you-embed-dashboard-watson-studio-service-your-web-site
  
-## Running the Project Frontline Website
-
-1. Run the file  
 
 ## Guide
 
