@@ -2,6 +2,7 @@
 First Hand Information for First Responders who are always on the Frontline with the help of Chatbot and an Interactive Dashboard powered by IBM Watson.This Project is part of IBM Call for Code 2020 COVID-19 Challenge.
 
 ![](/PROJECT%20FRONTLINE/images/logo.png)
+First Hand Info For First Responders
 
 ## Authors
 
