@@ -120,11 +120,36 @@ Log in to IBM Cloud and provision a Watson Assistant instance.
 
 ## Guide
 
-1. The First Responder will access the Website https://drive.google.com/file/d/1MV0TeAzEi53cYPJi1mF7ss2wak_RYX_m/view?usp=sharing
-2. Reaponder  can access the Chatbot secially designed for First Responders and ask specific Questions like "How to clean a transport Vehicle?","What is the recommened PPE?" and get answers.  https://drive.google.com/file/d/1OD-H4mrQGjDPIRh02zWrSihTGhxP5Z81/view?usp=sharing  https://drive.google.com/file/d/1uhyRo9XiVK0FiFJ9bjCk3-qk_lb6XgxF/view?usp=sharing
-3. The First Responders can aslo fill the form to specify their needs like which ppe they need? or the problems they face? https://drive.google.com/file/d/16hpsZRAOGKb20Zb_8gkf9GduhYSKdrP9/view?usp=sharing 
-4. The Government Authorities can visit this website and view the Interactive Dashboard powered by IBM Watson Studio having Data Visualisation based on the Data filled up in the form by the First Responders https://drive.google.com/file/d/10iNF0_wQiU8kXGi18rIRuj0TmrR1Pjgv/view?usp=sharing
+1. The First Responder will access the Website
+![](/PROJECT%20FRONTLINE/images/frontpage.png)
 
+2.The First Responder can access the Chatbot Integrated with Slack specially designed for First Responders and ask specific Questions like "How to clean a transport Vehicle?","What is the recommened PPE?" and get detailed answers.
+![](/PROJECT%20FRONTLINE/images/frontpage1.png)
+![](/PROJECT%20FRONTLINE/images/chatbot.png)
+
+3. The First Responders can also fill the form to specify their needs like which ppe they need? or the problems they encounter while serving us on the Frontline?
+![](/PROJECT%20FRONTLINE/images/form1.png)
+
+![](/PROJECT%20FRONTLINE/images/form2.png)
+
+![](/PROJECT%20FRONTLINE/images/form3.png)
+
+![](/PROJECT%20FRONTLINE/images/form4.png)
+Click on the Submit Button after entering your details.
+
+4.After Clicking on the Submit Button on the form the Geocode is entered by clicking on the Script to take the Location from the First Responder in order to Track or Locate their needs.
+![](/PROJECT%20FRONTLINE/images/form5.png)
+
+5.Geocode is entered
+![](/PROJECT%20FRONTLINE/images/form7.png)
+
+6. The Government Authorities can visit this website and view the Interactive Dashboard powered by IBM Watson Studio having Data Visualisation based on the Data filled up in the form by the First Responders.
+![](/PROJECT%20FRONTLINE/images/dashboard1.png)
+
+7.The Authorities can touch and play various Aspects of the Interactive Dashboard. Suppose a Packed Bubble is clicked then the network Graph,Heatmap and Column Bar graph changes dynamically.
+![](/PROJECT%20FRONTLINE/images/dashboard2.png)
+
+8.Advanced Techniques like Machine Learning can be applied by the Government Authorities on this data collected by the Form in IBM Watson Studio to locate and track their needs. 
 
 
 
