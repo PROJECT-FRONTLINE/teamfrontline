@@ -1,5 +1,5 @@
 # PROJECT FRONTLINE
-First Hand Information for First Responders who are always on the Frontline with the help of Chatbot and an Interactive Dashboard powered by IBM Watson. This Project is part of IBM Call for Code 2020 COVID-19 Challenge.
+First Hand Information for First Responders who are always on the Frontline with the help of Chatbot and an Interactive Dashboard powered by IBM Watson.This Project is part of IBM Call for Code 2020 COVID-19 Challenge.
 
 ![](/PROJECT%20FRONTLINE/images/logo.png)
 
@@ -27,7 +27,7 @@ First Hand Information for First Responders who are always on the Frontline with
 
 ### What's the problem?
 
-Our World is hit with a COVID-19 Pandemic Crisis. In this tines, the First Responders are the First ones to respond. The only way to solve this crisis is by helping our Firsst Responderd who are always on present on the Frontlines.We believe that "First Responders need First Response". First Response in terms of what they need and an immediate and timely answers to their Questions which they face while Serving us on the Frontline. 
+Our World is hit with a COVID-19 Pandemic Crisis. In this times, the First Responders are the First ones to respond.The only way to solve this crisis is by helping our First Responders who are always on present on the Frontlines.We believe that "First Responders need First Response". First Response in terms of what they need and an immediate and timely answers to their Questions which they face while Serving us on the Frontline. 
 
 ### How can technology help?
 
@@ -35,12 +35,12 @@ We believe Technology especially build with the capabilities of IBM Watson can b
 
 ## The idea
 
-The goal is to build a Responsive Web Application like a website which can be accessed both by the Computer and a Smartphone. This Website will have a Chatbot powered by IBM Watson Assistant specially Designed for First Responders. It will as hold a form which will serve as a Data Collection tool to collect Information from the First Responder regarding their needs and the problems they face or encounter on the Frontlines.This data will in turn be fed into IBM Watson Studio to provid Insights in terms of Data Visualisation in An Interactive Dashboard. This Dashboard can be viewed by Government Authorities to assess Whar are the needs and the problems of the First Responders?
+The goal is to build a Responsive Web Application like a website which can be accessed both by the Computer and a Smartphone. This Website will have a Chatbot powered by IBM Watson Assistant specially Designed for First Responders. It will as hold a form which will serve as a Data Collection tool to collect Information from the First Responder regarding their needs and the problems they face or encounter on the Frontlines.This data will in turn be fed into IBM Watson Studio to provid Insights in terms of Data Visualisation in an Interactive Dashboard. This Dashboard can be viewed by Government Authorities to assess What are the needs and the problems of the First Responders.
 
 ## How it works
 
-A.First Responder(The First Responder will access the Website which have the chatbot and the form. The First Responders can access the Chatbot specially designed for First Responders and ask specific Questions like "How to clean a transport Vehicle?","What is the recommened PPE?" and get answers. The First Responders can aslo fill the form to specify their needs like which ppe they need? or the problems they face?)
-B.Government Authorities(The Government Authorities can visitt this website and view the Interactive Dashboard powered by IBM Watson Studio having Data Visualisation based on the Data filled up in the form by the First Responders.)
+A.First Responder(The First Responder will access the Website which have the chatbot and the form. The First Responders can access the Chatbot specially designed for First Responders and ask specific Questions like "How to clean a transport Vehicle?","What is the recommended PPE?" and get answers.The First Responders can also fill the form to specify their needs like which ppe they need? or the problems they face?)
+B.Government Authorities(The Government Authorities can visit this website and view the Interactive Dashboard powered by IBM Watson Studio having Data Visualisation based on the Data filled up in the form by the First Responders.)
 
 ## Diagrams
 
@@ -51,20 +51,20 @@ For First Responder:
 ![](/PROJECT%20FRONTLINE/images/Capture20.PNG)
 1. The First Responder launches the Website.
 2. He/She then launches the chatbot integrated with slack called as Frontline Chatbot specially designed for First Responders powered by IBM Watson.
-3. He/She asks the Questions that he faces on the Frontline like "What precaustions are needed if I work in a Nursing facility?", "I am Pregnant, What care must I take while attending COVID-19 patients?".
+3. He/She asks the Questions that he faces on the Frontline like "What precautions are needed if I work in a Nursing facility?", "I am Pregnant, What care must I take while attending COVID-19 patients?".
 4. The Chatbot then harnesses the capabilities of IBM Watson and answers the First Responders Query.
-5. The First Responder can also fil a form in order to specify the needs and problems that they face on the frontlines like "hygiene", "whether their basic needs are satisfied?".
-6. The Data collected by the form is fed into watson studio in order to be analysed by Government Authorities.
+5. The First Responder can also fill a form in order to specify the needs and problems that they face on the frontlines like "hygiene", "whether their basic needs are satisfied?".
+6. The Data collected by the form is fed into IBM Watson Studio in order to be analysed by Government Authorities.
 
 For Government Authorities:
 ![](/PROJECT%20FRONTLINE/images/Capture22.PNG)
 1. The Government Authority launches the website.
-2. He/She then lauches the Interactive Dashboard called as Frontline Insights powered by IBM Watson Studio to show the data filled in the for by the First Responders in terms of Data Visualisation.
-3. The data can also be analysed in Watson Studio and decision can be made by the authorities and the needs of the first responders can be addressed.
+2. He/She then launches the Interactive Dashboard called as Frontline Insights powered by IBM Watson Studio to show the data filled in the form by the First Responders in terms of Data Visualisation.
+3. The data can also be analysed in Watson Studio and decision can be made by the Authorities and the needs of the First Responders can be addressed.
 
 ## Documents
 
-Trusted sources for COVID-19 Information:
+Trusted sources for COVID-19 Information from which data is scraped for the Chatbot Specially Designed for First Responders.
 - [CDC COVID-19 FAQ](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
 - [WHO COVID-19 page](https://www.who.int/health-topics/coronavirus)
 
@@ -107,7 +107,7 @@ Log in to IBM Cloud and provision a Watson Assistant instance.
 
 ### 2.Integrate your Watson Assistant with Slack
 
-1.Once you have got your Watson Assistant up and running follow this tutorial https://developer.ibm.com/tutorials/create-crisis-communication-chatbot-integrate-slack/
+1.Once you have got your Watson Assistant up and running follow this tutorial https://developer.ibm.com/tutorials/create-crisis-communication-chatbot-integrate-slack/ and add our dialog skill skill-CDC-COVID-FirstResponder-FAQ.json specially designed for First Responders instead of the dialog skill mentioned in the tutorial.
 
 ### 3.How to Create an Interactive Dashboard
 
@@ -123,7 +123,7 @@ Log in to IBM Cloud and provision a Watson Assistant instance.
 1. The First Responder will access the Website
 ![](/PROJECT%20FRONTLINE/images/frontpage.png)
 
-2.The First Responder can access the Chatbot Integrated with Slack specially designed for First Responders and ask specific Questions like "How to clean a transport Vehicle?","What is the recommened PPE?" and get detailed answers.
+2.The First Responder can access the Chatbot Integrated with Slack specially designed for First Responders and ask specific Questions like "How to clean a transport Vehicle?","What is the recommended PPE?" and get detailed answers.
 ![](/PROJECT%20FRONTLINE/images/frontpage1.png)
 ![](/PROJECT%20FRONTLINE/images/chatbot.png)
 
@@ -146,7 +146,7 @@ Click on the Submit Button after entering your details.
 6. The Government Authorities can visit this website and view the Interactive Dashboard powered by IBM Watson Studio having Data Visualisation based on the Data filled up in the form by the First Responders.
 ![](/PROJECT%20FRONTLINE/images/dashboard1.png)
 
-7.The Authorities can touch and play various Aspects of the Interactive Dashboard. Suppose a Packed Bubble is clicked then the network Graph,Heatmap and Column Bar graph changes dynamically.
+7.The Authorities can touch and Play with various Aspects of the Interactive Dashboard. Suppose a Packed Bubble is clicked then the network Graph,Heatmap and Column Bar graph changes dynamically.
 ![](/PROJECT%20FRONTLINE/images/dashboard2.png)
 
 8.Advanced Techniques like Machine Learning can be applied by the Government Authorities on this data collected by the Form in IBM Watson Studio to locate and track their needs. 
