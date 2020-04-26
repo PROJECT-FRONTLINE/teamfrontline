@@ -1,5 +1,5 @@
 # PROJECT FRONTLINE
-First Hand Information for First Responders who are always on the Frontline with the help of Chatbot and an Interactive Dashboard powered by IBM Watson.This Project is part of IBM Call for Code 2020 COVID-19 Challenge.
+First Hand Information for First Responders who are always on the Frontline with the help of Chatbot and an Interactive Dashboard powered by IBM Watson. This Project is part of IBM Call for Code 2020 COVID-19 Challenge.
 
 ![](/PROJECT%20FRONTLINE/images/logo.png)
 
@@ -27,7 +27,7 @@ First Hand Information for First Responders who are always on the Frontline with
 
 ### What's the problem?
 
-Our World is hit with a COVID-19 Pandemic Crisis. In this tines, the First Responders are the First ones to respond.The only way to solve this crisis is by helping our Firsst Responderd who are always on present on the Frontlines.We believe that "First Responders need First Response". First Response in terms of what they need and an immediate and timely answers to their Questions which they face while Serving us on the Frontline. 
+Our World is hit with a COVID-19 Pandemic Crisis. In this tines, the First Responders are the First ones to respond. The only way to solve this crisis is by helping our Firsst Responderd who are always on present on the Frontlines.We believe that "First Responders need First Response". First Response in terms of what they need and an immediate and timely answers to their Questions which they face while Serving us on the Frontline. 
 
 ### How can technology help?
 
@@ -39,7 +39,7 @@ The goal is to build a Responsive Web Application like a website which can be ac
 
 ## How it works
 
-A.First Responder(The First Responder will access the Website which have the chatbot and the form. The First Responders can access the Chatbot secially designed for First Responders and ask specific Questions like "How to clean a transport Vehicle?","What is the recommened PPE?" and get answers.The First Responders can aslo fill the form to specify their needs like which ppe they need? or the problems they face?)
+A.First Responder(The First Responder will access the Website which have the chatbot and the form. The First Responders can access the Chatbot specially designed for First Responders and ask specific Questions like "How to clean a transport Vehicle?","What is the recommened PPE?" and get answers. The First Responders can aslo fill the form to specify their needs like which ppe they need? or the problems they face?)
 B.Government Authorities(The Government Authorities can visitt this website and view the Interactive Dashboard powered by IBM Watson Studio having Data Visualisation based on the Data filled up in the form by the First Responders.)
 
 ## Diagrams
