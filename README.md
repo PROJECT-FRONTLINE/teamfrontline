@@ -27,7 +27,7 @@ First Hand Information for First Responders who are always on the Frontline with
 
 ### What's the problem?
 
-Our World is hit with a COVID-19 Pandemic Crisis. In this times, the First Responders are the First ones to respond.The only way to solve this crisis is by helping our First Responders who are always on present on the Frontlines.We believe that "First Responders need First Response". First Response in terms of what they need and an immediate and timely answers to their Questions which they face while Serving us on the Frontline. 
+Our World is hit with a COVID-19 Pandemic Crisis. In this times, the First Responders are the First ones to respond.The only way to solve this crisis is by helping our First Responders who are always present on the Frontlines.We believe that "First Responders need First Response". First Response in terms of what they need and an immediate and timely answers to their Questions which they face while Serving us on the Frontline. 
 
 ### How can technology help?
 
