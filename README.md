@@ -1,4 +1,4 @@
-# teamfrontline
+# PROJECT FRONTLINE
 First Hand Information for First Responders who are always on the Frontline with the help of Chatbot and an Interactive Dashboard powered by IBM Watson.This Project is part of IBM Call for Code 2020 COVID-19 Challenge.
 
 ## Authors
