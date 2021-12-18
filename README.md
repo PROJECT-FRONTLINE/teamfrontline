@@ -64,7 +64,7 @@ For Government Authorities:
 
 ## Documents
 
-Trusted sources for COVID-19 Information from which data is scraped for the Chatbot Specially Designed for First Responders.
+Trusted sources for COVID-19 Information from which data is taken for the Chatbot Specially Designed for First Responders.
 - [CDC COVID-19 FAQ](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
 - [WHO COVID-19 page](https://www.who.int/health-topics/coronavirus)
 
